@@ -8,6 +8,7 @@ public class HumHainTest {
 	{
 		System.out.println("Tera fitoor");
 		System.out.println("Tera fitobbn");
+		System.out.println("hii");
 	}
 
 }
